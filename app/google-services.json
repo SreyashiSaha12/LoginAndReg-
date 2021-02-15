@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "757942924687",
+    "project_id": "login-and-reg-app",
+    "storage_bucket": "login-and-reg-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757942924687:android:9caa1134fcb8eb194647fa",
+        "android_client_info": {
+          "package_name": "com.example.myloginandregapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757942924687-t13e7le9frm00p8dj5go5rmq2st4s1mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyghCNQalXSufVqWiKa04DjEJx2lWMG6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757942924687-t13e7le9frm00p8dj5go5rmq2st4s1mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
